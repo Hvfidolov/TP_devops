@@ -1,3 +1,5 @@
+
+/* style.css */
 /* Reset default styles */
 body, h1, p {
     margin: 0;
@@ -20,4 +22,18 @@ p {
     color: #b3c7f2;
     font-size: 16px;
     line-height: 1.5;
+}
+div {
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }
