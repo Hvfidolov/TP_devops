@@ -1,0 +1,23 @@
+/* Reset default styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply styles to specific elements */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #4f74ca;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    color: #b3c7f2;
+    font-size: 16px;
+    line-height: 1.5;
+}
